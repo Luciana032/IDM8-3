@@ -16,8 +16,31 @@
 
     width: 100%;
     height: 100px;
-    background-color: rgb(208, 251, 249);
+    background-color: rgb(92, 135, 216);
+    display: flex;
 }
+.sociales{
+    width: 90px;
+    height: 98px;
+    background-color: rgb(255, 255, 255);
+    margin: 2px; ;
+    
+     
+ }
+.ingles{
+    width: 90px;
+    height: 98px;
+    background-color: rgb(255, 255, 255);
+    margin: 2px; ;
+}
+
+.matematicas{
+    width: 90px;
+    height: 98px;
+     background-color: rgb(246, 248, 248);
+     margin: 2px; ;
+}
+
 .contenedor2{
 
     width: 100%;
@@ -29,7 +52,7 @@
 
     width: 20%;
     height: 1200px;
-    background-color: rgb(51, 165, 165);
+    background-color: rgb(64, 211, 211);
 }
 .centro{
 
@@ -41,5 +64,5 @@
 
     width: 20%;
     height: 1200px;
-    background-color: rgb(51, 165, 165);
+    background-color: rgb(50, 219, 219);
 }
